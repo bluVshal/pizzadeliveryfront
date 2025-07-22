@@ -1,5 +1,7 @@
 {
     "appName":"NU|PIZZA",
     "login":"Login",
-    "cart":"Cart"
+    "cart":"Cart",
+    "prices":"Prices",
+    "variants":"Variants"
 }
