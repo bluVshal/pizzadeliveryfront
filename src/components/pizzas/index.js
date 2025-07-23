@@ -23,6 +23,6 @@ const Pizzas = (props) => {
             </div>
         </div>
     )
-}
+};
 
-export default Pizzas
+export default Pizzas;
